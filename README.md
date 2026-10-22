@@ -1,7 +1,7 @@
 # 👨‍💻 Salindu Sandun
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;4th+Year+IT+Undergraduate;Software+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;Sri+Lanka+Institute+of+Information+Technology+(SLIIT)+specializing+in+Information+Technology;Software+Engineering+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
