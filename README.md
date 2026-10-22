@@ -19,7 +19,7 @@
 ```javascript
 const salindu = {
     pronouns: "He/Him",
-    education: "4th Year IT Undergraduate at SLIIT",
+    education: "Sri Lanka Institute of Information Technology (SLIIT), specializing in Information Technology",
     currentFocus: "Full-Stack Development & Software Engineering",
     passions: ["Clean Code", "Problem Solving", "Innovation", "Learning"],
     funFact: "I debug with console.log() and I'm proud of it! 🐛"
